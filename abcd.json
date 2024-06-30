@@ -1,4 +1,5 @@
 {
-  "initialUrl": "https://anubisscan.com",
-  "accessCode": "12345"
+  "webview_url": "https://example.com",
+  "access_code": "1234",
+  "renew_access_url": "https://example.com/renew"
 }
