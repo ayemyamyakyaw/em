@@ -1,6 +1,16 @@
 {
   "access_code": {
     "password": "1234",
-    "new_password_url": "http://example.com/get-new-password"
+    "new_password_url": "http://example.com/get-new-password",
+    "sliders": [
+      {
+        "image_url": "http://example.com/path/to/image1.jpg",
+        "link_url": "http://example.com/link1"
+      },
+      {
+        "image_url": "http://example.com/path/to/image2.jpg",
+        "link_url": "http://example.com/link2"
+      }
+    ]
   }
 }
